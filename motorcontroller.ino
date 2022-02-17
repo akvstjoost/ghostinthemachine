@@ -1,3 +1,5 @@
+// ** THIS IS A DRAFT - CODE NOT WORKING 
+
 //template by Thomas Rutgers - Techlab St. Joost School of Art & Design
 
 #include <Servo.h>
